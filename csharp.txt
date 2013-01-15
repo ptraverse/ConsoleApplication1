@@ -1,0 +1,7 @@
+csharp programming project
+use git
+hello world http://www.wikihow.com/Create-a-Program-in-C-Sharp
+
+http://www.homeandlearn.co.uk/csharp/csharp_s1p5.html
+
+socket http://www.codeproject.com/Articles/10649/An-Introduction-to-Socket-Programming-in-NET-using
